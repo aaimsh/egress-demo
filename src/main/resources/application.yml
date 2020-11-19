@@ -3,3 +3,4 @@ spring:
     kubernetes:
       config:
         name: test-spring-config
+        namespace: myproject
